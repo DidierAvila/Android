@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_8839f112ed3187d0bfe671c9db0b6c44a14abbbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_0bc0ffd14fc576f1e168dfb0dda0ab9a37bd1479.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f67e10b664ce4f74d48b7f67df942bf5a0cab2f8">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\pre-dexed\debug\instant-run_cbe2ab1f8b4302ef2c41313acbe02e82f6364e48.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_e6dafeddd3246122c10c770390a13d645e1c908b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_4d20df9aca022534fe610a2c40c94e8888906daa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_bba48674f530ce68219a34a4e537fcd3fd44fc3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd70bab2043a19f8cff93e6e9eb6ce37c69cc7">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0bc63a74f732e1595e6ab8a2385941b1eaa85760.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\MiPrimeraApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_40414ee33afb3f63f68f6f8044a8677e6ba2ad90.jar" />
+    </item>
+
+</items>

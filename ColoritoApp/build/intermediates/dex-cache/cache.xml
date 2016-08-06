@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Desarrollo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1_c0c5374bf43ed38cfe8b50fb32880eaadfb174ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="51062c415d0acdc46a652772112027fb7340a2c0">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_155456151fcbb54d5d83c8b1175e637ac86d7c2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="e20d609c4a500272e7471cdd1823db8e1e27e45a">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\pre-dexed\debug\instant-run_0afa1f2e33fafbed20bea03dd71cc5163dc09281.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.1_07dfa5dae29ed3edd9d42e0387c27d6102ceb1c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_6620f9f7502e50d854c2a7e516f99b52813c3931.jar" />
+    </item>
+    <item
+        jar="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Desarrollo\AndroidStudioProjects\ColoritoApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.1_e07dc8cc81f9edac87306011543572dec197dab8.jar" />
+    </item>
+
+</items>

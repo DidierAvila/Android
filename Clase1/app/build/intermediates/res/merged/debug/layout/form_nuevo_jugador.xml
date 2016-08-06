@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/txt_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:hint="Nombre del jugador"
+        android:singleLine="true" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/txt_nick_nuevo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:hint="Nick de acceso"
+        android:singleLine="true" >
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/txt_clave_nuevo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/clave_nuevo"
+        android:hint="Contraseña"
+        android:singleLine="true" />
+    <EditText
+        android:id="@+id/txt_clave_nuevo_confirmar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/clave_nuevo"
+        android:hint="Confirmar contraseña"
+        android:singleLine="true" />
+
+</LinearLayout>

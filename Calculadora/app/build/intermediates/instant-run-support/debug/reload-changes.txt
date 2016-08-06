@@ -1,0 +1,14 @@
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\R$integer$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\R$id$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\R$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\Home$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\R$styleable$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\R$mipmap$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\R$style$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$layout$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\R$string$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\LoginActivity$1$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\LoginActivity$override.class
+CHANGED,C:\Users\Desarrollo\AndroidStudioProjects\Calculadora\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\desarrollo\calculadora\R$layout$override.class
